@@ -1,4 +1,4 @@
-### Hi there, I'm [yterajima](https://github.com/yterajima)! :wave:
+### Hi there, I'm [yuya-matsushima](https://github.com/yuya-matsushima)! :wave:
 
 Hi, I'm Yuya Matsushima, Web Developer from Japan.
 
@@ -7,9 +7,9 @@ Hi, I'm Yuya Matsushima, Web Developer from Japan.
     - I also work with PHP occasionally.
 - :book: I'm currently studying to Async Processing in Go, AWS and Company Management.
 
-<a href="https://github.com/yterajima">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yterajima&show_icons=true" />
+<a href="https://github.com/yuya-matsushima">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuya-matsushima&show_icons=true" />
 </a>
-<a href="https://github.com/yterajima">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yterajima" />
+<a href="https://github.com/yuya-matsushima">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuya-matsushima" />
 </a>

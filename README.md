@@ -16,7 +16,7 @@ Hi, I'm Yuya Matsushima, Web Developer from Japan.
 
 Reason for change :
 
-When I got married :couple: in September 2016, my last name changed from `Terajima` to `Matsushima`.
+When I got married :couple: in March 2016, my last name changed from `Terajima` to `Matsushima`.
 
 I changed it to `yuya-matsushima` because my account was different from my actual name and it often interfered with my work.
 
